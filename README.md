@@ -16,7 +16,7 @@ Membuat sistem kasir self service dengan feature sebagai berikut:
 - Membuat proses untuk menghitung total belanja yang harus dibayarkan dan diskon yang didapatkan (jika dapat).
 
 ## Flowchart
-[![flowchart](https://raw.githubusercontent.com/arditadwis/Pacmann-Phyton-Project-SuperCashier/main/flow%20chart.png)
+![flowchart](https://raw.githubusercontent.com/arditadwis/Pacmann-Phyton-Project-SuperCashier/main/flow%20chart.png)
 
 ## Penjelasan Code
 a. Init Merupakan fungsi inisialisasi untuk class transaction
