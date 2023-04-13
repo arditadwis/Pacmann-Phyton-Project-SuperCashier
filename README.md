@@ -156,4 +156,4 @@ jumlah total belanjaan adalah 285000.0 dengan diskon 5%
 ```
 ## Kesimpulan
 - Super cashier mempermudah customer dalam proses pembayaran 
-- Untuk hasil coding silahkan dibuka di link [https://raw.githubusercontent.com/arditadwis/Pacmann-Phyton-Project-SuperCashier/main/main.py]
+- Untuk hasil coding silahkan dibuka di link [https://github.com/arditadwis/Pacmann-Phyton-Project-SuperCashier]
